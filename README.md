@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    I am a Final Year undergraduate from <a href="https://www.svcengg.com/"> <b>Dayananda Sagar Academy of Technology and Management</b>, Bangalore</a>.
+    I am a Final Year undergraduate from <a href="https://www.dsatm.edu.in/"> <b>Dayananda Sagar Academy of Technology and Management</b>, Bangalore</a>.
   </em>  
   Java Developer | React Developer | Web Developer | UI/UX Designer | Cloud & AI Enthusiast | Android Developer
 </p>
